@@ -39,9 +39,11 @@ Random Forest
 8. Model Evaluation-
 Analyzed the accuracy of each algorithm and fine-tuned parameters for optimal results.
 Evaluated metrics such as precision and recall, selecting Random Forest as the final model due to its high accuracy(79%) and robust performance.
-
-9. Deployment-
+![Screenshot]([paste_the_image_url_here](https://github.com/psahu1110/Sentiment-Analysis-on-Financial-Statements/blob/main/model%20accuracy.PNG))
+   
+10. Deployment-
 Utilized Streamlit for deploying the sentiment analysis model.
+![Screenshot]((https://github.com/psahu1110/Sentiment-Analysis-on-Financial-Statements/blob/main/deployment.PNG))
 
 Conclusion:
 This project successfully addressed sentiment analysis on financial statements, from initial data import to deploying a reliable model. The use of NLP techniques, EDA, and handling imbalanced data contributed to the effectiveness of the sentiment classification.
