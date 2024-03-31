@@ -19,14 +19,14 @@ Recognized the imbalance issue and applied strategies to address it for better m
 
 5. Natural Language Processing (NLP) with NLTK-
 Utilized the NLP library NLTK for text processing.
-Implemented text preprocessing tasks, including tokenization, stopwords removal, punctuation removal, and stemming.
+Implemented text preprocessing tasks, including tokenization, stopword removal, punctuation removal, and stemming.
 
 6. Visualization-
 Created Word Clouds for each sentiment to visually represent the most frequently used words in the text.
 
 7. Model Building-
 Employed TF-IDF for feature extraction.
-Split the data and applied various machine learning algorithms, including:
+Split the data and apply various machine learning algorithms, including:
 Support Vector Classifier (SVC)
 Multinomial Naive Bayes
 Gaussian Naive Bayes
@@ -39,11 +39,12 @@ Random Forest
 8. Model Evaluation-
 Analyzed the accuracy of each algorithm and fine-tuned parameters for optimal results.
 Evaluated metrics such as precision and recall, selecting Random Forest as the final model due to its high accuracy(79%) and robust performance.
-![Screenshot]([paste_the_image_url_here](https://github.com/psahu1110/Sentiment-Analysis-on-Financial-Statements/blob/main/model%20accuracy.PNG))
+![model accuracy](https://github.com/psahu1110/Sentiment-Analysis-on-Financial-Statements/assets/114385902/d684f945-2893-4c1e-ae18-6dba5d2ca01d)
    
 10. Deployment-
 Utilized Streamlit for deploying the sentiment analysis model.
-![Screenshot]((https://github.com/psahu1110/Sentiment-Analysis-on-Financial-Statements/blob/main/deployment.PNG))
+![deployment](https://github.com/psahu1110/Sentiment-Analysis-on-Financial-Statements/assets/114385902/a5c182a7-5927-4205-bc3e-079ae7faf1bf)
+
 
 Conclusion:
 This project successfully addressed sentiment analysis on financial statements, from initial data import to deploying a reliable model. The use of NLP techniques, EDA, and handling imbalanced data contributed to the effectiveness of the sentiment classification.
